@@ -22,7 +22,7 @@ const data = {
   npm: chalk.gray('https://npmjs.com/') + chalk.red('sasquatchxyz'),
   github: chalk.gray('https://github.com/') + chalk.green('SasquatchXYZ'),
   linkedin: chalk.gray('https://linkedin.com/in/') + chalk.magenta('daltonricker'),
-  web: chalk.cyan('https://sasquatchxyz.github.io/Basic-Portfolio/'),
+  web: chalk.cyan('https://sasquatchxyz.github.io/portfolio-basic/'),
   npx: chalk.red('npx') + ' ' + chalk.white('daltonricker'),
   labelWork: chalk.white.bold('       Work:'),
   labelTwitter: chalk.white.bold('    Twitter:'),
